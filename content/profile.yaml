@@ -1,0 +1,29 @@
+- profile:
+  initials: MZ
+  name: Mabell Zúñiga
+  email: mabelzunigav@gmail.com
+  profession: Ingeniera Arquitecta Senior
+  image: images/profile.jpg
+  location: Ciudad de México, MX
+  relocation: true
+  company: Freelancer
+  for_hire: true
+  focus: Régimen de Propiedad en Condominio
+  focus_url: https://www.linkedin.com/in/arqMabell/
+  about: |
+    Apasionada a la Arquitectura, el Diseño de Interiores y la Fotografía.
+
+    Con más de 20 años de experiencia en la en la Elaboración de Régimen de Propiedad en Condominio para el Sector Público y Privado.
+  skills:
+    - VectorWorks / AutoCAD
+    - Microsoft Excel / Google Sheets
+    - Microsoft Word / Google Docs
+  tools:
+    - VectorWorks
+    - Notion
+    - Trello
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

@@ -1,0 +1,14 @@
+- name: Condominio Punta Pérgolas
+  url: https://capitaliamx.com/desarrollos/punta-pergola/
+  description: Desarrollo del Regimen de Condominio.
+  status: in process
+  tags:
+  icon: website
+  image: images/puntaPergolas.jpeg
+
+- name: Casa residencial
+  url: 
+  description: Decoración de interiores.
+  status: live
+  tags:
+  icon: website
