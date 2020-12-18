@@ -1,4 +1,12 @@
-- name: Condominio Punta Pérgolas
+- name: Condominio Ejecutivo Montes Celestes | Oficinas
+  url: https://capitaliamx.com/desarrollos/punta-pergola/
+  description: Desarrollo del Regimen de Condominio.
+  status: in process
+  tags:
+  icon: website
+  image: images/oficinas.png
+
+- name: Condominio Residencial Punta Pérgolas | Departamentos
   url: https://capitaliamx.com/desarrollos/punta-pergola/
   description: Desarrollo del Regimen de Condominio.
   status: in process
